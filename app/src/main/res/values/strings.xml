@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">UC</string>
+    <string name="title">Convert Ease</string>
+
+    <string name="input1">0</string>
+    <string name="input2">0</string>
+
+    <string-array name="string_item">
+        <item>Mass</item>
+        <item>Length</item>
+        <item>Temp</item>
+        <item>Time</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+    </string-array>
+
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+        <item>ounces</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Miles</item>
+        <item>Yards</item>
+        <item>Feet</item>
+        <item>Inches</item>
+    </string-array>
+
+    <array name="units">
+        <item>@array/mass_units</item>
+        <item>@array/length_units</item>
+        <item>@array/temp_units</item>
+        <item>@array/time_units</item>
+    </array>
+
+</resources>
